@@ -3,5 +3,4 @@
 // Funcion a nuestro gusto que queramos incluir
 
 
-//Etiqueta PHP de cierre
-?> 
+?>
