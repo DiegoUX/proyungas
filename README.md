@@ -11,8 +11,8 @@
 
 ###Entorno de trabajo
 
-- En el repo sólo está solo versionado los archivos del theme-child, por lo tanto para montar un staging o .loc primero crear el directorio "proyungas", luego instalar un wordpress.
+- En el repo sólo está versionado los archivos del theme-child, por lo tanto para montar un staging o un entorno local.loc primero crear el directorio "proyungas", luego instalar un wordpress.
 
-- Como siguiente paso, instalar el theme "proyungas" que se encuentra en dropbox en la carpeta code/proyungas.
+- Como siguiente paso, instalar el theme "proyungas" que se encuentra en dropbox en la carpeta code/Librerías/proyungas.
 
 - Luego pararse en el directorio wp-content/themes/ y clonar el repo (proyungas-child). 
